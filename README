@@ -1,0 +1,13 @@
+Author:  Adam Bourg
+I got the idea of "Dollar word" from the book "Because of Mr. Terupt". My wife is a teacher and I often have to listen to kids books in the car so she can evaluate wether or not they would be good for kids. The teacher in, Mr. Terupt, invented a game called "Dollar word", basically each letter repesents a cent. A = $0.01 and Z = $0.26. Case doesn't matter. The goal is to find words that add up to percisely $1.00.
+
+This is a code challenge based off of that idea. We supply a CSV of the english langauge, and see how many dollar words we can produce in a variety of languages.
+
+Think of this as a Kata or koan for learning different languages or challenging your skills.
+
+Goal: output as many exact dollar words as possible.
+
+Bonus points, dump a webpage, strip all tags and list all dollar words with their frequencies.
+
+
+Our word list comes from: http://dreamsteep.com/downloads/word-games-and-wordsmith-utilities/120-the-english-open-word-list-eowl.html
